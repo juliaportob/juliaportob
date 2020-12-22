@@ -6,4 +6,4 @@ Some of my habilities are: HTML, CSS, JavaScript, React, React Hooks, Redux, Jes
 
 My LinkedIn profile is: https://www.linkedin.com/in/juliaporto/
 
-My e-mail is: juportob@gamil.com
+My e-mail is: juportob@gmail.com
