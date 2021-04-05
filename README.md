@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a front-end developer, and a full stack web development student at Trybe. Also, I'm graduated in Law.
+I'm a full stack developer, and a web development student at Trybe. Also, I'm graduated in Law.
 
 Some of my habilities are: HTML, CSS, JavaScript, React, Redux, MySQL, MongoDB, NodeJS.
 
